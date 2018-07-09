@@ -6,3 +6,5 @@ The API will contain all the algorithms and I/O that is used in the pipeline for
 4. use FFT to detect periodic signals with high SNR
 5. fold candidates with the best SNR at the right period
 6. save the folded candidates
+
+[Back to table of contents](../readme.md)

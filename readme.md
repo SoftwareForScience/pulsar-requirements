@@ -1,5 +1,5 @@
-# Index Software requirements Pulsar
-Software for Science is creating a new pulsar searching pipeline for the Escience center.
+# Index Software requirements Pulsar detection
+Software for Science is creating a new pulsar searching pipeline for the Escience center. 
 
 ### Table of contents
 1. [Introduction](./SRS_Pulsar/readme.md)

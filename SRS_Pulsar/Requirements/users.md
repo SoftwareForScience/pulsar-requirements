@@ -6,3 +6,5 @@ Bachelor students will maintain and use this framework for their own minor, they
 
 ## Scientific programmer:
 Programmers with a doctoral or master degree, they probably use a limited personal computer to develop on, however they will use the API in production with powerful hardware.
+
+[Back to table of contents](./readme.md)

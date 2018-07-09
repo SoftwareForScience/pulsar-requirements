@@ -17,7 +17,10 @@ The framework should be implemented in:
 
 ### GPU and kernel programming
 Since some of the algorithms can be done in parallel, it is recommended that these algorithms will be done one the GPU. The following frameworks are available:
-1. CUDA
-2. OpenCL
+
+1. OpenCL
+2. CUDA
 
 The framework must take in account that not all the development machines have a dedicated GPU. The software must still be usable.
+
+[Back to table of contents](./readme.md)

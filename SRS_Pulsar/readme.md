@@ -4,4 +4,6 @@ Amsterdam University of Applied Sciences is doing a rewrite of a pulsar detectio
 Pulsars are special types of neutron stars whose emission is only received on Earth periodically, similarly to the effect of a light beam from a lighthouse. These objects are not only fascinating astronomical sources, but also important physical probes that can be used to perform experiments on gravitation and have been recently used to confirm the existence of gravitational waves. However, 50 years after the detection of the first pulsar, less than 3000 pulsars have been identified This is because finding new pulsars is a complex task, that does not only require very sensitive radio telescopes, but also a fair amount of computation.
 
 ## Proposal
-Creating a free and open source framework that contains the generic algorithms and file handling for astronomical data sets. This framework will modular similar to OpenCV, wherein specific modules can be added and disabled depended on the needs of a project.
+Creating a free and open source framework that contains the generic algorithms and file handling for astronomical data sets. This framework will modular similar to OpenCV, wherein specific modules can be added and disabled depended on the needs of a project. This framework will be implemented in Python and C++.
+
+[Back to table of contents](../readme.md)
