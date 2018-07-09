@@ -10,7 +10,7 @@ The following versions must be supported in the framework:
 4. Raspbian(ARM x64) with g++ 6.3
 
 ## Programming languages and tools:
-Most students will have no or little experience with programming in C++, therefore its recommended that the framework will have a standalone version in Python. Allowing students to focus on the logic of an algorithm. After this the algorithms and  I/O will be ported to C++, as it is often use in scientific communities. Due the new threading capabilities C++14 is preferred.
+Most students will have no or little experience with programming in C++, therefore its recommended that the framework will have a standalone version in Python. Allowing students to focus on the logic of an algorithm. After this the algorithms and  I/O will be ported to C++, as it is often use in scientific communities. [Due the new threading capabilities C++14 is preferred](https://en.cppreference.com/w/cpp/thread).
 The framework should be implemented in:
 1. Python3.6 and later
 2. C++14 and late
